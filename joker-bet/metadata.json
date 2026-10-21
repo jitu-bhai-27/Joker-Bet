@@ -1,0 +1,8 @@
+{
+  "name": "Joker Bet - Real-Money 3-Card Multiplayer",
+  "description": "Real-time 3-Card Joker multiplayer platform with instant UPI deposits, 24h bank withdrawals, provably fair gameplay, and responsive mobile-first experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "/",
+  "name": "Joker Bet - 3-Card Multiplayer",
+  "short_name": "Joker Bet",
+  "description": "High-stakes real-time 3-Card Joker platform with dynamic zero-loss engine and instant UPI deposits.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#07090e",
+  "background_color": "#07090e",
+  "categories": ["games", "casino"],
+  "icons": [
+    {
+      "src": "/pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-maskable-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
